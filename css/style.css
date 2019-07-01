@@ -997,7 +997,9 @@ footer {
     }
     
     .btn-email {
-        margin-left: 100px;
+        margin-left: 50px;
+        margin-top: 65px;
+        border: 2px solid white;
     }
     
     #footer-banner h1 {
