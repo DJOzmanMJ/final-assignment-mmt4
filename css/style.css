@@ -928,14 +928,19 @@ footer {
         position: absolute;
         margin-left: 35%;
         margin-top: -5%;
+        display: none;
+    }
+    
+    header {
+        height: 200px;
     }
 
     header ul {
         position: relative;
-        width: 250px;
-        margin-left: 75%;
-        margin-top: 8%;
-        font-size: 1.4em;
+        width: 300px;
+        font-size: 1.3em;
+        margin-left: 45%;
+        top: -10%;
     }
 
     #banner-cont {
